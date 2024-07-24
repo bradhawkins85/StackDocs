@@ -2,11 +2,11 @@
 $company = "Test Company"
 $companyslug = "Test"
 
-$company = "Test Company 2"
-$companyslug = "Test2"
+#$company = "Test Company 2"
+#$companyslug = "Test2"
 
-$company = "Test Company 3"
-$companyslug = "Test3 "
+#$company = "Test Company 3"
+#$companyslug = "Test3 "
 
 
 $bookstackapikey = "your api key here"
