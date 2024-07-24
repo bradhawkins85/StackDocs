@@ -3,7 +3,7 @@ Alternative to Hudu/ITGlue based on BookStack
 
 This is a work in progress and currently has limited functionality.
 
-The initial script will create a Shelf based on the company name, and Books for various document categories, a template Chapter for an entry of each book type, and required pages in the chapters.
+The initial script (Build BookStack Template.ps1) will create a Shelf based on the company name, and Books for various document categories, a template Chapter for an entry of each book type, and required pages in the chapters.
 
 The script will then add the Books to the Company Shelf.
 
